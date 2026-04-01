@@ -1,5 +1,5 @@
 ---
-- name: Export controller 2.4 configs
+- name: Export controller 2.4 or AWX configs
   hosts: localhost
   connection: local
   gather_facts: False
